@@ -1,0 +1,8 @@
+Bước 1: vào file SQL ở trong thư mục QLY_QUANAN.
+Bước 2: Create Database QUANLYQUANAN và Exutete.
+Bước 3: Có thể sẽ chạy vào câu lệnh xóa nhân viên và bill ở cuối nên hãy insert lại nhé!!
+Bước 4: Vào QLY_QUANAN.sln và vào phần SQL.cs
+Bước 5: Kết nối SQL bằng sever name của mình rồi trust sever và bấm vào tên database mình đã tạo ở phần select or enter database name.
+Bước 6: Bấm vào Advanced rồi copy dòng cuối cùng rồi bấm ok , ok. 
+Bước 7: Paste vào phần string chuoi vào xóa phần ;Trust Server Certificate=True.
+Bước 8: Hoàn thành và chúc các bạn thành công <3 <3 <3.
